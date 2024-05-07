@@ -1,18 +1,15 @@
-Another updgraded React application movie search engine with [The Movie DB](https://www.themoviedb.org/) api.
-Used functional components, Typescript, Hooks, Redux (Toolkit) etc. All the packages are used are updated versions.
+# MovieBrowser avec React TypeScript
 
-React Movie Search App with [Bootstrap 5](https://getbootstrap.com/)
+Ce projet est une application web de MovieBrowser développée en utilisant React avec TypeScript pour l'interface utilisateur. Cette application permet aux utilisateurs de rechercher des films, de voir les détails des films et de les ajouter à leur liste de favoris.
 
-Dependencies
+## Fonctionnalités
 
-* [Create React App] - A JavaScript library for building user interfaces
-* [Typescript] - JavaScript with syntax for types
-* [React Router DOM V6] - DOM bindings for React Router.
-* [Redux Toolkit] - State management with Redux Toolkit.
+- Recherche de films par titre.
+- Affichage des détails des films, y compris le titre, la description, la note, la date de sortie, etc.
+- Ajout de films à une liste de favoris.
+- Visualisation de la liste de films favoris.
+- Intégration avec une API de données de films pour obtenir des informations à jour.
 
+## Installation
 
-   [Create React App]: <https://reactjs.org/>
-   [Typescript]: <https://www.typescriptlang.org/>
-   [React Router DOM V6]: <https://reactrouter.com/docs/en/v6>
-   [Redux Toolkit]: <https://redux-toolkit.js.org/>
-
+1. Clonez ce dépôt sur votre machine locale :
